@@ -1,0 +1,7 @@
+*~
+*.c
+*.so
+*.pyc
+*.pyo
+*.DS_Store
+_build/*
