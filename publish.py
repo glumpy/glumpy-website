@@ -94,7 +94,7 @@ if __name__ == '__main__':
     # directory, and then copy the html tree in there
     sh('rm -rf %s/*' % pages_dir)
     sh('cp -r %s/* %s/' % (html_dir, pages_dir))
-    sh('cp -r .nojekyll %s/' % (pages_dir))
+    sh('touch %s/.nojekyll' % (pages_dir))
 
     try:
         cd(pages_dir)
