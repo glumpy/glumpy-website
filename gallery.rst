@@ -133,7 +133,7 @@ Gallery
 
             :header:`Surface elevation`
 
-            This example shows a 10x10 numpy array represented as a heighfield
+            This example shows a 10x10 numpy array represented as a heightfield
             that is generated entirely on the GPU (using a default mesh).
 
             .. raw:: html
