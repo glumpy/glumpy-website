@@ -96,7 +96,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>Surface heightfield</h1>
-              <p>10x10 numpy array represented as a GPU-computed heighfield.</p>
+              <p>10x10 numpy array represented as a GPU-computed heightfield.</p>
               <p><a class="btn btn-primary" href="#" role="button">Learn more</a></p>
             </div>
           </div>

@@ -34,7 +34,7 @@ Gallery
             .. raw:: html
 
                <a type="button" class="btn btn-primary btn-xs"
-               href="https://github.com/rougier/glumpy/blob/master/examples/fireworks.py"/>
+               href="https://github.com/glumpy/glumpy/blob/master/examples/fireworks.py"/>
                <span class="fa fa-github"></span> Sources </a>
 
                <button type="button" class="btn btn-danger btn-xs">
@@ -60,9 +60,10 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/galaxy.py"/>
                <span class="fa fa-github"></span> Sources
-               </button>
+               </a>
 
                <button type="button" class="btn btn-danger btn-xs">
                <span class="glyphicon glyphicon-film"></span> Movie</button>
@@ -87,9 +88,10 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/voronoi.py"/>
                <span class="fa fa-github"></span> Sources
-               </button>
+               </a>
 
 
    .. container:: col-sm-6 col-md-3
@@ -112,8 +114,9 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
-               <span class="fa fa-github"></span> Sources </button>
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/high-frequency.py">
+               <span class="fa fa-github"></span> Sources </a>
 
                <button type="button" class="btn btn-danger btn-xs">
                <span class="glyphicon glyphicon-film"></span> Movie</button>
@@ -138,9 +141,10 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/geometry-surface.py"/>
                <span class="fa fa-github"></span> Sources
-               </button>
+               </a>
 
 
    .. container:: col-sm-6 col-md-3
@@ -161,9 +165,10 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/gloo-cloud.py"/>
                <span class="fa fa-github"></span> Sources
-               </button>
+               </a>
 
 
    .. container:: col-sm-6 col-md-3
@@ -185,9 +190,10 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/mandelbrot.py"/>
                <span class="fa fa-github"></span> Sources
-               </button>
+               </a>
 
 
    .. container:: col-sm-6 col-md-3
@@ -208,9 +214,10 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/geometry-parametric.py"/>
                <span class="fa fa-github"></span> Sources
-               </button>
+               </a>
 
 
    .. container:: col-sm-6 col-md-3
@@ -232,9 +239,10 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/quiver.py"/>
                <span class="fa fa-github"></span> Sources
-               </button>
+               </a>
 
 
    .. container:: col-sm-6 col-md-3
@@ -255,9 +263,11 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
-               <span class="fa fa-github"></span> Sources</button>
-               <button type="button" class="btn btn-danger btn-xs">
+               <!-- <button type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/gloo-frame.py"/>
+               <span class="fa fa-github"></span> Sources</button> -->
+
+               <button type="button" class="btn btn-danger btn-xs disabled="disabled"">
                <span class="fa fa-spinner fa-spin"></span> WIP</button>
 
 
@@ -280,9 +290,10 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/grayscott.py"/>
                <span class="fa fa-github"></span> Sources
-               </button>
+               </a>
 
 
    .. container:: col-sm-6 col-md-3
@@ -306,8 +317,9 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
-               <span class="fa fa-github"></span> Sources</button>
+               <!-- <button type="button" class="btn btn-primary btn-xs">
+               <span class="fa fa-github"></span> Sources</button> -->
+
                <button type="button" class="btn btn-danger btn-xs">
                <span class="fa fa-spinner fa-spin"></span> WIP</button>
 
@@ -330,8 +342,9 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
-               <span class="fa fa-github"></span> Sources</button>
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/filter-blur.py"/>
+               <span class="fa fa-github"></span> Sources</a>
 
 
    .. container:: col-sm-6 col-md-3
@@ -352,8 +365,9 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
-               <span class="fa fa-github"></span> Sources</button>
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/colormaps.py"/>
+               <span class="fa fa-github"></span> Sources</a>
 
 
    .. container:: col-sm-6 col-md-3
@@ -374,8 +388,9 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
-               <span class="fa fa-github"></span> Sources</button>
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/gloo-terminal.py"/>
+               <span class="fa fa-github"></span> Sources</a>
 
 
    .. container:: col-sm-6 col-md-3
@@ -397,5 +412,6 @@ Gallery
 
             .. raw:: html
 
-               <button type="button" class="btn btn-primary btn-xs">
-               <span class="fa fa-github"></span> Sources</button>
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/coolection-custom-line.py"/>
+               <span class="fa fa-github"></span> Sources</a>
