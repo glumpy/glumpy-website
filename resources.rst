@@ -81,7 +81,7 @@ Visualisation
 Scientific Articles
 ===================
 
-* | Ten simple rules for better figures
+* | `Ten simple rules for better figures <http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003833>`_
   | Nicolas P. Rougier, Michael Droettboom, Phil Bourne. PLOS Computational Biology (2014).
 * | `Shader-based Antialiased Dashed Stroked Polylines <http://jcgt.org/published/0002/02/08/>`_
   | Nicolas P. Rougier. Journal of Computer Graphics Techniques, (2013)

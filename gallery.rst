@@ -185,7 +185,7 @@ Gallery
             :header:`Mandelbrot set`
 
             The mandatory Mandelbrot set computed in the GPU with single float
-            precision even tough `double precision emulation
+            precision even tough `double precision through emulation
             <https://www.thasler.org/blog/?p=93>`_ is possible.
 
             .. raw:: html
@@ -413,5 +413,28 @@ Gallery
             .. raw:: html
 
                <a type="button" class="btn btn-primary btn-xs"
-               href="https://github.com/glumpy/glumpy/blob/master/examples/coolection-custom-line.py"/>
+               href="https://github.com/glumpy/glumpy/blob/master/examples/collection-custom-lines.py"/>
+               <span class="fa fa-github"></span> Sources</a>
+
+   .. container:: col-sm-6 col-md-3
+
+      .. container:: thumbnail
+
+         .. image:: _static/screenshots/thumbnails/smoke.png
+            :width: 100%
+            :class: img-rounded
+            :target: _static/screenshots/smoke.png
+
+         .. container:: caption
+
+            :header:`Smoke simulation`
+
+            Porting the fluid simulation from the `little
+            grasshopper <http://github.prideout.net/blog/?p=58>`_, this example
+            shows a very nice smoke simulation using GPU Eulerian approach.
+
+            .. raw:: html
+
+               <a type="button" class="btn btn-primary btn-xs"
+               href="https://github.com/glumpy/glumpy/blob/master/examples/smoke/smoke.py"/>
                <span class="fa fa-github"></span> Sources</a>
